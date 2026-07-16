@@ -1,2 +1,2 @@
-# python
-Lan Yangyang's Java Learning Journey
+# Python
+Lan Yangyang's Python Learning Journey
